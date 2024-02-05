@@ -1,4 +1,4 @@
-# ST-1 UNIT-тестирование с использованием Googletest (C++) (1)
+# ST-1 UNIT-тестирование с использованием Googletest C++ (1)
 
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-CS/ST-1)
