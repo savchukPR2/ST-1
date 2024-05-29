@@ -1,6 +1,8 @@
-// Copyright 2022 NNTU-CS
+// Copyright 2024 Savchuk Anton
+
 #ifndef INCLUDE_ALG_H_
 #define INCLUDE_ALG_H_
+
 #include <cstdint>
 
 bool checkPrime(uint64_t value);
